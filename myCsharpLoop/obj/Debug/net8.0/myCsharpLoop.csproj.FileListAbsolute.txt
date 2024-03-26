@@ -1,0 +1,15 @@
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.AssemblyInfoInputs.cache
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.AssemblyInfo.cs
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.csproj.CoreCompileInputs.cache
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.sourcelink.json
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/bin/Debug/net8.0/myCsharpLoop
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/bin/Debug/net8.0/myCsharpLoop.deps.json
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/bin/Debug/net8.0/myCsharpLoop.runtimeconfig.json
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/bin/Debug/net8.0/myCsharpLoop.dll
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/bin/Debug/net8.0/myCsharpLoop.pdb
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.dll
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/refint/myCsharpLoop.dll
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.pdb
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/myCsharpLoop.genruntimeconfig.cache
+/workspaces/intro-to-big-o-ifrair729/myCsharpLoop/obj/Debug/net8.0/ref/myCsharpLoop.dll
